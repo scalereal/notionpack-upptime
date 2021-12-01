@@ -18,6 +18,11 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: NotionPack
   introTitle: "**NotionPack** is a tool to increase your productivity using Notion, developed by ScaleReal."
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
   theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
