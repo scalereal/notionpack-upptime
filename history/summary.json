@@ -1,22 +1,22 @@
 [
   {
     "name": "NotionPack",
-    "url": "https://notionpack-uat.herokuapp.com/",
+    "url": "https://notionpack-uat.herokuapp.com/admin/",
     "icon": "https://favicons.githubusercontent.com/notionpack-uat.herokuapp.com",
     "slug": "notion-pack",
-    "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
-    "time": 316,
-    "timeDay": 316,
-    "timeWeek": 316,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "status": "up",
+    "uptime": "93.36%",
+    "uptimeDay": "93.36%",
+    "uptimeWeek": "93.36%",
+    "uptimeMonth": "93.36%",
+    "uptimeYear": "93.36%",
+    "time": 294,
+    "timeDay": 294,
+    "timeWeek": 294,
+    "timeMonth": 294,
+    "timeYear": 294,
     "dailyMinutesDown": {
-      "2021-12-01": 0
+      "2021-12-01": 1
     }
   }
 ]
