@@ -23,9 +23,6 @@ status-website:
       href: https://uat-notionpack.netlify.app/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-workflowSchedule:
-  uptime: "*/20 * * * *"
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
