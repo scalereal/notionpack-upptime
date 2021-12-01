@@ -1,7 +1,7 @@
-url: https://notionpack-uat.herokuapp.com/
-status: down
-code: 404
-responseTime: 60
-lastUpdated: 2021-12-01T11:26:50.168Z
+url: https://notionpack-uat.herokuapp.com/admin/
+status: up
+code: 200
+responseTime: 135
+lastUpdated: 2021-12-01T11:28:08.370Z
 startTime: Wed Dec 01 2021 11:08:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
