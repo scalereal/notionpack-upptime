@@ -25,7 +25,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  uptime: "*/25 * * * *"
+  uptime: "*/20 * * * *"
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
