@@ -4,7 +4,7 @@ repo: notionpack-upptime # The name of this repository
 
 sites:
   - name: NotionPack
-    url: https://app.notionpack.com/login
+    url: https://app.notionpack.com/api/v1/health-check/
     
 assignees:
   - Akash1362000
