@@ -1,7 +1,7 @@
 [
   {
     "name": "NotionPack",
-    "url": "https://app.notionpack.com/login",
+    "url": "https://app.notionpack.com/api/v1/health-check/",
     "icon": "https://favicons.githubusercontent.com/app.notionpack.com",
     "slug": "notion-pack",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 300,
-    "timeDay": 964,
-    "timeWeek": 370,
-    "timeMonth": 300,
-    "timeYear": 300,
+    "time": 319,
+    "timeDay": 871,
+    "timeWeek": 415,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2021-12-01": 1
     }
