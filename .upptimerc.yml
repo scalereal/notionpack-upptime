@@ -20,7 +20,7 @@ status-website:
   introTitle: "**NotionPack** is a tool to increase your productivity using Notion, developed by ScaleReal."
   navbar:
     - title: App
-      href: https://app.notionpack.com/login
+      href: https://app.notionpack.com/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   
