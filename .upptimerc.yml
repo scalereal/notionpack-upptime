@@ -9,6 +9,7 @@ sites:
 assignees:
   - Akash1362000
   - Prathamesh9997
+  - Nishant127
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
