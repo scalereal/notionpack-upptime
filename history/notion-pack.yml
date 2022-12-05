@@ -1,7 +1,7 @@
 url: https://app.notionpack.com/api/v1/health-check/
-status: down
-code: 500
-responseTime: 1385
-lastUpdated: 2022-12-05T06:44:18.362Z
+status: up
+code: 200
+responseTime: 1198
+lastUpdated: 2022-12-05T06:57:19.534Z
 startTime: Wed Dec 01 2021 11:08:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
