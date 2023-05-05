@@ -4,12 +4,17 @@ repo: notionpack-upptime # The name of this repository
 
 sites:
   - name: NotionPack
-    url: https://app.notionpack.com/api/v1/health-check/
+    url: https://notionpack.com/api/v1/health-check/
     
 assignees:
   - Akash1362000
   - Prathamesh9997
   - Nishant127
+  - chetanvarade31
+  - Bhusnar5044
+  - hhkk28
+  - ashishmohite
+  - baalajimaestro
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,7 +26,7 @@ status-website:
   introTitle: "**NotionPack** is a tool to increase your productivity using Notion, developed by ScaleReal."
   navbar:
     - title: App
-      href: https://app.notionpack.com/
+      href: https://notionpack.com/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   
