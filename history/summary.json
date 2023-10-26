@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/notionpack.com.ico",
     "slug": "notion-pack",
     "status": "up",
-    "uptime": "95.57%",
+    "uptime": "95.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.88%",
-    "time": 1949,
-    "timeDay": 3435,
-    "timeWeek": 3115,
-    "timeMonth": 2907,
-    "timeYear": 2004,
+    "time": 1950,
+    "timeDay": 2693,
+    "timeWeek": 3054,
+    "timeMonth": 2880,
+    "timeYear": 2003,
     "dailyMinutesDown": {
       "2023-05-11": 52,
       "2023-05-05": 485,
@@ -68,8 +68,7 @@
       "2022-11-04": 77,
       "2022-10-30": 18,
       "2022-10-28": 75,
-      "2022-10-27": 51,
-      "2022-10-26": 13
+      "2022-10-27": 51
     }
   }
 ]
